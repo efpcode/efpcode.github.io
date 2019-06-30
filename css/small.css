@@ -1,0 +1,31 @@
+body {
+  background: #424242;
+}
+
+ul, li {
+	list-style: inside;
+	list-style-type: none;
+}
+
+.container{
+	width:100%;
+	text-align:center;
+}
+
+aside.left{
+	float: initial;
+	border-radius: 0rem;
+}
+
+section{
+	border-radius: 0rem;
+}
+#side-bar{
+	display: none;
+}
+
+#right-body{
+	text-align: center;
+	width: 100%;
+}
+
