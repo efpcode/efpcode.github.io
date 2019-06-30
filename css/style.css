@@ -64,6 +64,11 @@ ul, li {
   list-style-type: square;
 }
 
+a {
+  color:#424242;
+  text-decoration: none;
+}
+
 /*
  * Heading Styles
 */
@@ -124,6 +129,14 @@ section.center, ul.center{
 img.sidebar{
   width: 80%;
   border-radius: 50%;
+}
+
+img.center{
+  display: block;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 1rem; 
 }
 
 /*
