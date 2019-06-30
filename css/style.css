@@ -14,7 +14,7 @@ gold: #dbc750;
 
 */
 
-
+@media only screen and (max-width: 46.75rem){ 
 body {
   background: #424242 url("../img/mug.jpg");
   color:#b4b4b4;
@@ -170,7 +170,7 @@ aside.left{
   margin: 0 0.3125rem 0 0.3125rem;
 }
 
-
+}
 
 
 
