@@ -1,0 +1,16 @@
+body {
+	font-family: 'Jura', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2.8em 
+}
+p {
+	font-size: 1.5em;
+	//font-family: 'Cantarell', sans-serif;
+	font-style: italic;
+	text-align: center;
+}
+
+
